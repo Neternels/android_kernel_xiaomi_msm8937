@@ -1,4 +1,3 @@
-Limits Management Hardware - DCVS
 
 The LMH-DCVS block is a hardware IP for every CPU cluster, to handle quick
 changes in thermal limits. The hardware responds to thermal variation amongst
